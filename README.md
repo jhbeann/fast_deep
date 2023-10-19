@@ -1,2 +1,3 @@
-# fast_deep
-fastcamp pythonbasic_deeplearning
+python 기초 딥러닝
+---------------
+
